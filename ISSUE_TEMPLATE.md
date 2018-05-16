@@ -6,7 +6,7 @@ If you have a feature request, please post to [the UserVoice](https://wpdev.user
 
 Please use this form and describe your issue, concisely but precisely, with as much detail as possible
 
-* Your Windows build number:  (Type `ver` at a Windows Command Prompt)
+* Your Windows build number:  (Type `ver` at a Windows Command Prompt or `[Environment]::OSVersion` in Powershell)
 
 * What you're doing and what's happening: (Copy & paste specific commands and their output, or include screen shots)
 
